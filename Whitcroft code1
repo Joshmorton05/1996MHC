@@ -10,7 +10,7 @@ e = campaignTrail_temp;
 
             $(".container")[0].style.backgroundColor = "#a19b9b";
 
-            document.getElementById("header").src = "https://media.discordapp.net/attachments/827378337894236170/1158107138825134202/1966MHC.jpg?ex=651b0ad2&is=6519b952&hm=13a9f49648bc3ae9cd503e99af366e7f2bf63b43d09901f5f033e61dc30e9b39&=";
+            document.getElementById("header").src = "https://media.discordapp.net/attachments/1149804892538552370/1158454994673074196/1966MHC.jpg?ex=651c4ec9&is=651afd49&hm=bd77d99b628b6c4314632488e8505a909886061cb0c87f29fcf2296671ff4292&=";
 
             document.body.background = "https://media.discordapp.net/attachments/1149804892538552370/1158093146908008498/IMG_0148.png?ex=651afdca&is=6519ac4a&hm=be5c898b604da05379eb0a14e0fbbf1d7247122a5c6e1b94c5fb99b5c9fda883&=&width=1236&height=671";
 
